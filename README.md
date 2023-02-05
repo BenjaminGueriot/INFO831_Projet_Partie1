@@ -15,11 +15,11 @@ Dans cette partie, je vais tester différentes commandes de base
 
 * show databases
 
-![](captures/show_databases.png)
+![](captures/show_databases.PNG)
 
 * use France
 
-![](captures/use_France.png)
+![](captures/use_France.PNG)
 
 * show collections
 
