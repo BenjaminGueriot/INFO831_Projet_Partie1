@@ -12,7 +12,7 @@ Dans cette partie, je vais tester différentes commandes de base
 
 * show databases
 
-![](captures/show_databases.png)
+![test](captures/show_databases.png)
 
 * use France
 
